@@ -1,0 +1,11 @@
+#navigation .selected a {
+    background: #08F; /* pizado */
+}
+
+#navigation a:hover {
+    background: #08C; /*dezplazamiento x la tabla de contenido*/
+}
+
+#navigation .selected a:hover, #navigation .active .button {
+    background: #08C; /*mouse pasa sobre elemento*/
+}

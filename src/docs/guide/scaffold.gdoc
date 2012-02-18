@@ -1,0 +1,50 @@
+
+
+https://github.com/robokaso/grails-kickstart
+
+http://grails.org/plugin/kickstart-with-bootstrap
+
+After installation you can call "grails kickstartWithBootstrap" which will copy several files into your project. It will overwrite only few files (e.g., in conf, src, and views) - you should use it only on fresh new Grails project.
+
+Afterwards create your domain classes (or copy them into the project) and generate contollers and views - they will now use the Bootstrap framework!
+
+
+grails install-plugin kickstart-with-bootstrap
+
+grails kickstart-with-bootstrap
+
+Replacing exisiting views and installing new ones ...
+Overwrite existing layouts & base GSPs (e.g., index.gsp)
+  in C:\Users\Personal\Documents\NetBeansProjects\ProyectoA1/grails-app/views?[y,n] 
+
+Adding the Home controller ...
+> 
+Overwrite existing HomeController.groovy file
+  in C:\Users\Personal\Documents\NetBeansProjects\ProyectoA1/grails-app/controllers/?[y,n] 
+
+Installing css, js, and images for Bootstrap ...
+Installing and changing conf files ...
+> 
+Overwrite existing URLMappings.groovy file
+  in C:\Users\Personal\Documents\NetBeansProjects\ProyectoA1/grails-app/conf/?[y,n] 
+
+| Kickstart installed successfully
+
+
+
+default.language.button
+
+BuildConfig.groovy :
+dependencies {
+        // specify dependencies here under either 'build', 'compile', 'runtime', 'test' or 'provided' scopes eg.
+
+        // runtime 'mysql:mysql-connector-java:5.1.16'
+        runtime 'postgresql:postgresql:8.4-702.jdbc3' xxxxx
+    }
+
+grails integrate-with --git
+
+
+clic derecho / control de versiones/ Inicializar Repositorio Git
+
+

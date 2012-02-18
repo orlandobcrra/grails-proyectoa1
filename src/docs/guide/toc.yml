@@ -1,0 +1,28 @@
+introduccion:
+  title: Introducción
+primerosPasos:
+  title: Primeros pasos
+  requerimientos:
+    title: Descarga e Instalación
+    java: Java 6 ♥
+    grails: Groovy and Grails 2.0 ☼
+    gitAndHeroku: Git + Heroku
+    maven: Maven 3
+    netbeans: Netbeans 7.1
+  holaMundo: Hola Mundo!!!
+scaffold:
+  title: new css + scaffold, simple (CRUD)
+dbconsole:
+  title: DB Consola
+aLaNube:
+  title: A la nube ↑
+documentacion:
+  title: Documentacion
+  user: Manual del Usuario
+  app: De la aplicacion
+aplicacionCompleta:
+  title: Aplicacion Completa
+reportes:
+  title: Reportes con iReport y JaspertReports
+seguridad:
+  title: Seguridad
