@@ -1,3 +1,10 @@
+grails.plugin.cloudfoundry.username = "orlandobcrra@gmail.com"
+grails.plugin.cloudfoundry.password = "fEP59wuD"
+
+
+////orlandobcrra.cloudfoundry.me
+//Please use the token below to configure your Micro Cloud Foundry wring-bird-fed
+
 grails.doc.authors = "Orlando Becerra"
 
 // locations to search for config files that get merged into the main config

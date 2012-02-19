@@ -22,6 +22,27 @@
 			page template by Twitter and provides adapted scaffolding templates
 			for standard web pages.</p>
 	</section>
+  
+  <g:jasperReport
+          jasper="Reporte1"
+          format="PDF,HTML,XML,CSV,XLS,RTF,TEXT,ODT,ODS,DOCX,XLSX,PPTX"
+          name="Reporte1">
+    Your name: <input type="text" name="name"/>
+  </g:jasperReport>
+
+-----------
+
+<g:jasperForm controller="jasper"
+    action="exampleWithData"
+    id="1498"
+    jasper="w_iReport" >
+    ..form contents..
+
+    <g:jasperButton format="pdf" jasper="jasper-test" text="PDF" />
+
+    .. other html..
+
+    </g:jasperForm>
 
 </body>
 

@@ -1,8 +1,14 @@
-http://shop.oreilly.com/product/0636920024798.do
+casa "casa":http://shop.oreilly.com/product/0636920024798.do gggug
 
 {note}
 asdfadsf
 {note}
+
+{warning}
+asdfadsf
+{warning}
+
+
 
 * An easy to use Object Relational Mapping (ORM) layer built on [Hibernate|http://www.hibernate.org]
 * An expressive view technology called Groovy Server Pages (GSP)
@@ -12,3 +18,7 @@ asdfadsf
 * Dependency injection with the inbuilt Spring container
 * Support for internationalization (i18n) built on Spring's core MessageSource concept
 * A transactional service layer built on Spring's transaction abstraction
+
+# asdf
+# asdf2
+# asadf3
