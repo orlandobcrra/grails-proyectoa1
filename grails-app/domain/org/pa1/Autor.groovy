@@ -28,6 +28,7 @@ class Autor {
         sexo inList: ["Masculino", "Femenino"]
         cantidadHijos range: 0..11
         sueldo scale: 2
+        fechaNacimiento attributes: [year: 1980..2012]
     }
     
 	
