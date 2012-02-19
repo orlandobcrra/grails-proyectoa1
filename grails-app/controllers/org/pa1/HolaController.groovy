@@ -1,7 +1,7 @@
 package org.pa1
 
-import org.codehaus.groovy.grails.plugins.jasper.JasperExportFormat
-import org.codehaus.groovy.grails.plugins.jasper.JasperReportDef
+//import org.codehaus.groovy.grails.plugins.jasper.JasperExportFormat
+//import org.codehaus.groovy.grails.plugins.jasper.JasperReportDef
 
 class HolaController {
 
@@ -19,9 +19,9 @@ class HolaController {
     
     def jasperService
     def informe2() {
-        def reportDef = new JasperReportDef(name:'Reporte1.jasper',
-            fileFormat:JasperExportFormat.HTML_FORMAT
-        )
+        //def reportDef = new JasperReportDef(name:'Reporte1.jasper',
+        //    fileFormat:JasperExportFormat.HTML_FORMAT
+        //)
         // render 
         //FileUtils.writeByteArrayToFile(new File("test.pdf"), jasperService.generateReport(reportDef).toByteArray())
         
