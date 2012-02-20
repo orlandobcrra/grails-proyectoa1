@@ -36,7 +36,7 @@
     action="exampleWithData"
     id="1498"
     jasper="w_iReport" >
-    ..form contents..
+    ..form contents.. dsfasf
 
     <g:jasperButton format="pdf" jasper="jasper-test" text="PDF" />
 
